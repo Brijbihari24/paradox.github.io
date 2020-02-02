@@ -1,4 +1,4 @@
-## Welcome to Paradox world
+## Welcome to Paradox world Homepage!
 
 You can use the [editor on GitHub](https://github.com/Brijbihari24/paradox.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
